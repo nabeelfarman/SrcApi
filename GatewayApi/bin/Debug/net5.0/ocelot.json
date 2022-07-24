@@ -1,0 +1,116 @@
+{
+    "Routes": [
+        {
+            "DownstreamPathTemplate": "/User/authenticate",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [{
+                "Host": "localhost",
+                "Port": "9001"
+            }],
+            "UpstreamPathTemplate": "/auth-api/auth"
+        },
+        {
+            "DownstreamPathTemplate": "/User/getCompanyLogo",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [{
+                "Host": "localhost",
+                "Port": "9001"
+            }],
+            "UpstreamPathTemplate": "/auth-api/logo"
+        },
+        {
+            "DownstreamPathTemplate": "/{catchAll}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [{
+                "Host": "localhost",
+                "Port": "9001"
+            }],
+            "UpstreamPathTemplate": "/user-api/{catchAll}",
+            "AuthenticationOptions":  {
+                "AuthenticationProviderKey": "MyOwnKey",
+                "AllowedScopes": []
+            }
+        },
+        {
+            "DownstreamPathTemplate": "/{catchAll}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [{
+                "Host": "localhost",
+                "Port": "9002"
+            }],
+            "UpstreamPathTemplate": "/company-api/{catchAll}",
+            "AuthenticationOptions":  {
+                "AuthenticationProviderKey": "MyOwnKey",
+                "AllowedScopes": []
+            }
+        },
+        {
+            "DownstreamPathTemplate": "/{catchAll}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [{
+                "Host": "localhost",
+                "Port": "9003"
+            }],
+            "UpstreamPathTemplate": "/society-api/{catchAll}",
+            "AuthenticationOptions":  {
+                "AuthenticationProviderKey": "MyOwnKey",
+                "AllowedScopes": []
+            }
+        },
+        {
+            "DownstreamPathTemplate": "/{catchAll}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [{
+                "Host": "localhost",
+                "Port": "9004"
+            }],
+            "UpstreamPathTemplate": "/hr-api/{catchAll}",
+            "AuthenticationOptions":  {
+                "AuthenticationProviderKey": "MyOwnKey",
+                "AllowedScopes": []
+            }
+        },
+        {
+            "DownstreamPathTemplate": "/{catchAll}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [{
+                "Host": "localhost",
+                "Port": "9005"
+            }],
+            "UpstreamPathTemplate": "/fmis-api/{catchAll}",
+            "AuthenticationOptions":  {
+                "AuthenticationProviderKey": "MyOwnKey",
+                "AllowedScopes": []
+            }
+        },
+        {
+            "DownstreamPathTemplate": "/{catchAll}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [{
+                "Host": "localhost",
+                "Port": "9006"
+            }],
+            "UpstreamPathTemplate": "/inventory-api/{catchAll}",
+            "AuthenticationOptions":  {
+                "AuthenticationProviderKey": "MyOwnKey",
+                "AllowedScopes": []
+            }
+        },
+        {
+            "DownstreamPathTemplate": "/{catchAll}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [{
+                "Host": "localhost",
+                "Port": "9007"
+            }],
+            "UpstreamPathTemplate": "/land-api/{catchAll}",
+            "AuthenticationOptions":  {
+                "AuthenticationProviderKey": "MyOwnKey",
+                "AllowedScopes": []
+            }
+        }
+    ],
+    "GlobalConfiguration": {
+        "BaseUrl": "https://localhost:5000/"
+    }
+}

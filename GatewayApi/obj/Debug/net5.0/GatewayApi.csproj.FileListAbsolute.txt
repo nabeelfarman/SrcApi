@@ -1,0 +1,219 @@
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\appsettings.Development.json
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\appsettings.json
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\GatewayApi.exe
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\GatewayApi.deps.json
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\GatewayApi.runtimeconfig.json
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\GatewayApi.runtimeconfig.dev.json
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\GatewayApi.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\ref\GatewayApi.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\GatewayApi.pdb
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\FluentValidation.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\Ocelot.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\obj\Debug\net5.0\GatewayApi.csprojAssemblyReference.cache
+D:\Symbia Projects\HrModuleApi\gatewayapi\obj\Debug\net5.0\GatewayApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Symbia Projects\HrModuleApi\gatewayapi\obj\Debug\net5.0\GatewayApi.AssemblyInfoInputs.cache
+D:\Symbia Projects\HrModuleApi\gatewayapi\obj\Debug\net5.0\GatewayApi.AssemblyInfo.cs
+D:\Symbia Projects\HrModuleApi\gatewayapi\obj\Debug\net5.0\GatewayApi.csproj.CoreCompileInputs.cache
+D:\Symbia Projects\HrModuleApi\gatewayapi\obj\Debug\net5.0\GatewayApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Symbia Projects\HrModuleApi\gatewayapi\obj\Debug\net5.0\GatewayApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Symbia Projects\HrModuleApi\gatewayapi\obj\Debug\net5.0\staticwebassets\GatewayApi.StaticWebAssets.Manifest.cache
+D:\Symbia Projects\HrModuleApi\gatewayapi\obj\Debug\net5.0\staticwebassets\GatewayApi.StaticWebAssets.xml
+D:\Symbia Projects\HrModuleApi\gatewayapi\obj\Debug\net5.0\scopedcss\bundle\GatewayApi.styles.css
+D:\Symbia Projects\HrModuleApi\gatewayapi\obj\Debug\net5.0\GatewayApi.RazorTargetAssemblyInfo.cache
+D:\Symbia Projects\HrModuleApi\gatewayapi\obj\Debug\net5.0\GatewayApi.csproj.CopyComplete
+D:\Symbia Projects\HrModuleApi\gatewayapi\obj\Debug\net5.0\GatewayApi.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\obj\Debug\net5.0\ref\GatewayApi.dll
+D:\Symbia Projects\HrModuleApi\gatewayapi\obj\Debug\net5.0\GatewayApi.pdb
+D:\Symbia Projects\HrModuleApi\gatewayapi\obj\Debug\net5.0\GatewayApi.genruntimeconfig.cache
+D:\Symbia Projects\HrModuleApi\gatewayapi\bin\Debug\net5.0\ocelot.json
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\appsettings.Development.json
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\appsettings.json
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\ocelot.json
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\GatewayApi.exe
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\GatewayApi.deps.json
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\GatewayApi.runtimeconfig.json
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\GatewayApi.runtimeconfig.dev.json
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\GatewayApi.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\ref\GatewayApi.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\GatewayApi.pdb
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\FluentValidation.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\Ocelot.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\logix\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.csprojAssemblyReference.cache
+D:\logix\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\logix\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.AssemblyInfoInputs.cache
+D:\logix\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.AssemblyInfo.cs
+D:\logix\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.csproj.CoreCompileInputs.cache
+D:\logix\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.MvcApplicationPartsAssemblyInfo.cs
+D:\logix\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.MvcApplicationPartsAssemblyInfo.cache
+D:\logix\SocietyApi\gatewayapi\obj\Debug\net5.0\staticwebassets\GatewayApi.StaticWebAssets.Manifest.cache
+D:\logix\SocietyApi\gatewayapi\obj\Debug\net5.0\staticwebassets\GatewayApi.StaticWebAssets.xml
+D:\logix\SocietyApi\gatewayapi\obj\Debug\net5.0\scopedcss\bundle\GatewayApi.styles.css
+D:\logix\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.RazorTargetAssemblyInfo.cache
+D:\logix\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.csproj.CopyComplete
+D:\logix\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.dll
+D:\logix\SocietyApi\gatewayapi\obj\Debug\net5.0\ref\GatewayApi.dll
+D:\logix\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.pdb
+D:\logix\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.genruntimeconfig.cache
+<<<<<<< HEAD
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\appsettings.Development.json
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\appsettings.json
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\ocelot.json
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\GatewayApi.exe
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\GatewayApi.deps.json
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\GatewayApi.runtimeconfig.json
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\GatewayApi.runtimeconfig.dev.json
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\GatewayApi.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\ref\GatewayApi.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\GatewayApi.pdb
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\FluentValidation.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\Ocelot.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.csprojAssemblyReference.cache
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.AssemblyInfoInputs.cache
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.AssemblyInfo.cs
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.csproj.CoreCompileInputs.cache
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.MvcApplicationPartsAssemblyInfo.cs
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.MvcApplicationPartsAssemblyInfo.cache
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\obj\Debug\net5.0\staticwebassets\GatewayApi.StaticWebAssets.Manifest.cache
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\obj\Debug\net5.0\staticwebassets\GatewayApi.StaticWebAssets.xml
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\obj\Debug\net5.0\scopedcss\bundle\GatewayApi.styles.css
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.RazorTargetAssemblyInfo.cache
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.csproj.CopyComplete
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\obj\Debug\net5.0\ref\GatewayApi.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.pdb
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\obj\Debug\net5.0\GatewayApi.genruntimeconfig.cache
+=======
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\Dapper.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\IdentityModel.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\IdentityServer4.AccessTokenValidation.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\JWT.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\logix\SocietyApi\gatewayapi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+>>>>>>> 82fb42f1e982d80b961e242fc9c80a738121a46e
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\Dapper.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\IdentityModel.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\IdentityServer4.AccessTokenValidation.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\JWT.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\System.Data.SqlClient.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Logix\Society Application\Society WebServices\SocietyApi\gatewayapi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\appsettings.Development.json
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\ocelot.json
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\appsettings.json
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\GatewayApi.exe
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\GatewayApi.deps.json
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\GatewayApi.runtimeconfig.json
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\GatewayApi.runtimeconfig.dev.json
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\GatewayApi.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\ref\GatewayApi.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\GatewayApi.pdb
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\Dapper.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\FluentValidation.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\IdentityModel.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\IdentityServer4.AccessTokenValidation.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\JWT.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\Ocelot.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\obj\Debug\net5.0\GatewayApi.csprojAssemblyReference.cache
+D:\logix\ParSocietyProject\ParApi\gatewayapi\obj\Debug\net5.0\GatewayApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\logix\ParSocietyProject\ParApi\gatewayapi\obj\Debug\net5.0\GatewayApi.AssemblyInfoInputs.cache
+D:\logix\ParSocietyProject\ParApi\gatewayapi\obj\Debug\net5.0\GatewayApi.AssemblyInfo.cs
+D:\logix\ParSocietyProject\ParApi\gatewayapi\obj\Debug\net5.0\GatewayApi.csproj.CoreCompileInputs.cache
+D:\logix\ParSocietyProject\ParApi\gatewayapi\obj\Debug\net5.0\GatewayApi.MvcApplicationPartsAssemblyInfo.cs
+D:\logix\ParSocietyProject\ParApi\gatewayapi\obj\Debug\net5.0\GatewayApi.MvcApplicationPartsAssemblyInfo.cache
+D:\logix\ParSocietyProject\ParApi\gatewayapi\obj\Debug\net5.0\staticwebassets\GatewayApi.StaticWebAssets.Manifest.cache
+D:\logix\ParSocietyProject\ParApi\gatewayapi\obj\Debug\net5.0\staticwebassets\GatewayApi.StaticWebAssets.xml
+D:\logix\ParSocietyProject\ParApi\gatewayapi\obj\Debug\net5.0\scopedcss\bundle\GatewayApi.styles.css
+D:\logix\ParSocietyProject\ParApi\gatewayapi\obj\Debug\net5.0\GatewayApi.RazorTargetAssemblyInfo.cache
+D:\logix\ParSocietyProject\ParApi\gatewayapi\obj\Debug\net5.0\GatewayApi.csproj.CopyComplete
+D:\logix\ParSocietyProject\ParApi\gatewayapi\obj\Debug\net5.0\GatewayApi.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\obj\Debug\net5.0\ref\GatewayApi.dll
+D:\logix\ParSocietyProject\ParApi\gatewayapi\obj\Debug\net5.0\GatewayApi.pdb
+D:\logix\ParSocietyProject\ParApi\gatewayapi\obj\Debug\net5.0\GatewayApi.genruntimeconfig.cache
