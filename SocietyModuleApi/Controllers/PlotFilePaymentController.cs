@@ -31,7 +31,7 @@ namespace SocietyModuleAPI.Controllers
         {
             try
             {
-                cmd = "select * from ParFMIS.dbo.View_AllBanks_3";
+                cmd = "select * from srcFMIS.dbo.View_AllBanks_3";
                 var appModule = dapperQuery.Qry<AllBank>(cmd, _dbCon);
                 return Ok(appModule);
             }
@@ -47,7 +47,7 @@ namespace SocietyModuleAPI.Controllers
         {
             try
             {
-                cmd = "select * from ParFMIS.dbo.view_ChartOfAccount_forReceipt_4";
+                cmd = "select * from srcFMIS.dbo.view_ChartOfAccount_forReceipt_4";
                 var appModule = dapperQuery.Qry<ChartofAccount>(cmd, _dbCon);
                 return Ok(appModule);
             }

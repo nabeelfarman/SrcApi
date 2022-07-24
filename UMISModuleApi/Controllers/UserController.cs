@@ -56,7 +56,7 @@ namespace UMISModuleAPI.Controllers
         {
             try
             {
-                cmd = "select * from ParCompany.dbo.View_companies";
+                cmd = "select * from srcCompany.dbo.View_companies";
                 var appMenu = dapperQuery.Qry<Company>(cmd, _dbCon);
                 return Ok(appMenu);
             }

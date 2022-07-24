@@ -31,7 +31,7 @@ namespace InventoryModuleAPI.Controllers
         {
             try
             {
-                cmd = "select * from Parhrmis.dbo.view_AllEmployees_1 where memberType = 'employee'";
+                cmd = "select * from srchrmis.dbo.view_AllEmployees_1 where memberType = 'employee'";
                 var appModule = dapperQuery.Qry<Custodian>(cmd, _dbCon);
                 return Ok(appModule);
             }

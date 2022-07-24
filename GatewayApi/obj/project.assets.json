@@ -3820,11 +3820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\logix\\ParSocietyProject\\ParApi\\gatewayapi\\GatewayApi.csproj",
+      "projectUniqueName": "D:\\logix\\SRCProject\\SrcApi\\gatewayapi\\GatewayApi.csproj",
       "projectName": "GatewayApi",
-      "projectPath": "D:\\logix\\ParSocietyProject\\ParApi\\gatewayapi\\GatewayApi.csproj",
+      "projectPath": "D:\\logix\\SRCProject\\SrcApi\\gatewayapi\\GatewayApi.csproj",
       "packagesPath": "C:\\Users\\PC1\\.nuget\\packages\\",
-      "outputPath": "D:\\logix\\ParSocietyProject\\ParApi\\gatewayapi\\obj\\",
+      "outputPath": "D:\\logix\\SRCProject\\SrcApi\\gatewayapi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

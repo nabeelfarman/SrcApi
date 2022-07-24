@@ -5,7 +5,7 @@
             "DownstreamScheme": "http",
             "DownstreamHostAndPorts": [{
                 "Host": "localhost",
-                "Port": "9001"
+                "Port": "8051"
             }],
             "UpstreamPathTemplate": "/auth-api/auth"
         },
@@ -14,7 +14,7 @@
             "DownstreamScheme": "http",
             "DownstreamHostAndPorts": [{
                 "Host": "localhost",
-                "Port": "9001"
+                "Port": "8051"
             }],
             "UpstreamPathTemplate": "/auth-api/logo"
         },
@@ -23,7 +23,7 @@
             "DownstreamScheme": "http",
             "DownstreamHostAndPorts": [{
                 "Host": "localhost",
-                "Port": "9001"
+                "Port": "8051"
             }],
             "UpstreamPathTemplate": "/user-api/{catchAll}",
             "AuthenticationOptions":  {
@@ -36,7 +36,7 @@
             "DownstreamScheme": "http",
             "DownstreamHostAndPorts": [{
                 "Host": "localhost",
-                "Port": "9002"
+                "Port": "8052"
             }],
             "UpstreamPathTemplate": "/company-api/{catchAll}",
             "AuthenticationOptions":  {
@@ -49,7 +49,7 @@
             "DownstreamScheme": "http",
             "DownstreamHostAndPorts": [{
                 "Host": "localhost",
-                "Port": "9003"
+                "Port": "8053"
             }],
             "UpstreamPathTemplate": "/society-api/{catchAll}",
             "AuthenticationOptions":  {
@@ -62,7 +62,7 @@
             "DownstreamScheme": "http",
             "DownstreamHostAndPorts": [{
                 "Host": "localhost",
-                "Port": "9004"
+                "Port": "8054"
             }],
             "UpstreamPathTemplate": "/hr-api/{catchAll}",
             "AuthenticationOptions":  {
@@ -75,7 +75,7 @@
             "DownstreamScheme": "http",
             "DownstreamHostAndPorts": [{
                 "Host": "localhost",
-                "Port": "9005"
+                "Port": "8055"
             }],
             "UpstreamPathTemplate": "/fmis-api/{catchAll}",
             "AuthenticationOptions":  {
@@ -88,7 +88,7 @@
             "DownstreamScheme": "http",
             "DownstreamHostAndPorts": [{
                 "Host": "localhost",
-                "Port": "9006"
+                "Port": "8056"
             }],
             "UpstreamPathTemplate": "/inventory-api/{catchAll}",
             "AuthenticationOptions":  {
@@ -101,7 +101,7 @@
             "DownstreamScheme": "http",
             "DownstreamHostAndPorts": [{
                 "Host": "localhost",
-                "Port": "9007"
+                "Port": "8057"
             }],
             "UpstreamPathTemplate": "/land-api/{catchAll}",
             "AuthenticationOptions":  {

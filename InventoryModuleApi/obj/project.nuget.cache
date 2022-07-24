@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iHKOqRglY4d2DSJ57YmoBh9T4WZI2JSbC2CnRTOpmvQaryidEyKPcXQB4mH2oSxxI5gjH5muWYMeraFLKXIN0Q==",
+  "dgSpecHash": "XnEa7EStscyqbCBKzu5O2IJdvuM7LPxGqQKy/HoaI93lmJXTjsFnxB5dFE8f+7dG5B/BFOErmXxYrbABnG593Q==",
   "success": true,
-  "projectFilePath": "D:\\logix\\ParSocietyProject\\ParApi\\inventorymoduleapi\\InventoryModuleApi.csproj",
+  "projectFilePath": "D:\\logix\\SRCProject\\SrcApi\\inventorymoduleapi\\InventoryModuleApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC1\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\PC1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cOOsO2wfoZUySvsFEIBl8Ud7WygPTw2miz+imhumo1n0N5D5342lrTBBPdGyzmkOagCGO2ZJU/AOHWIp4mQS5Q==",
+  "dgSpecHash": "fiEBrmgDDXcp0NNuwjZBJdGGlzuA2fc4yXK+JgYpCFip7dYQFA3vGwbK8QMQuL+z7ipkKI3tThNKFMk/jz7Tmw==",
   "success": true,
-  "projectFilePath": "D:\\logix\\ParSocietyProject\\ParApi\\societymoduleapi\\SocietyModuleApi.csproj",
+  "projectFilePath": "D:\\logix\\SRCProject\\SrcApi\\societymoduleapi\\SocietyModuleApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC1\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\PC1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

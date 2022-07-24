@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\logix\\ParSocietyProject\\ParApi\\hrmismoduleapi\\HRMISModuleApi.csproj": {}
+    "D:\\logix\\SRCProject\\SrcApi\\hrmismoduleapi\\HRMISModuleApi.csproj": {}
   },
   "projects": {
-    "D:\\logix\\ParSocietyProject\\ParApi\\hrmismoduleapi\\HRMISModuleApi.csproj": {
+    "D:\\logix\\SRCProject\\SrcApi\\hrmismoduleapi\\HRMISModuleApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\logix\\ParSocietyProject\\ParApi\\hrmismoduleapi\\HRMISModuleApi.csproj",
+        "projectUniqueName": "D:\\logix\\SRCProject\\SrcApi\\hrmismoduleapi\\HRMISModuleApi.csproj",
         "projectName": "HRMISModuleApi",
-        "projectPath": "D:\\logix\\ParSocietyProject\\ParApi\\hrmismoduleapi\\HRMISModuleApi.csproj",
+        "projectPath": "D:\\logix\\SRCProject\\SrcApi\\hrmismoduleapi\\HRMISModuleApi.csproj",
         "packagesPath": "C:\\Users\\PC1\\.nuget\\packages\\",
-        "outputPath": "D:\\logix\\ParSocietyProject\\ParApi\\hrmismoduleapi\\obj\\",
+        "outputPath": "D:\\logix\\SRCProject\\SrcApi\\hrmismoduleapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

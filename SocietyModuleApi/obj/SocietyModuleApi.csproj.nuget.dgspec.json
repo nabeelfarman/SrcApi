@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\logix\\ParSocietyProject\\ParApi\\societymoduleapi\\SocietyModuleApi.csproj": {}
+    "D:\\logix\\SRCProject\\SrcApi\\societymoduleapi\\SocietyModuleApi.csproj": {}
   },
   "projects": {
-    "D:\\logix\\ParSocietyProject\\ParApi\\societymoduleapi\\SocietyModuleApi.csproj": {
+    "D:\\logix\\SRCProject\\SrcApi\\societymoduleapi\\SocietyModuleApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\logix\\ParSocietyProject\\ParApi\\societymoduleapi\\SocietyModuleApi.csproj",
+        "projectUniqueName": "D:\\logix\\SRCProject\\SrcApi\\societymoduleapi\\SocietyModuleApi.csproj",
         "projectName": "SocietyModuleApi",
-        "projectPath": "D:\\logix\\ParSocietyProject\\ParApi\\societymoduleapi\\SocietyModuleApi.csproj",
+        "projectPath": "D:\\logix\\SRCProject\\SrcApi\\societymoduleapi\\SocietyModuleApi.csproj",
         "packagesPath": "C:\\Users\\PC1\\.nuget\\packages\\",
-        "outputPath": "D:\\logix\\ParSocietyProject\\ParApi\\societymoduleapi\\obj\\",
+        "outputPath": "D:\\logix\\SRCProject\\SrcApi\\societymoduleapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

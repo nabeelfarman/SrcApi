@@ -733,11 +733,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\logix\\ParSocietyProject\\ParApi\\fmismoduleapi\\FMISModuleApi.csproj",
+      "projectUniqueName": "D:\\logix\\SRCProject\\SrcApi\\fmismoduleapi\\FMISModuleApi.csproj",
       "projectName": "FMISModuleApi",
-      "projectPath": "D:\\logix\\ParSocietyProject\\ParApi\\fmismoduleapi\\FMISModuleApi.csproj",
+      "projectPath": "D:\\logix\\SRCProject\\SrcApi\\fmismoduleapi\\FMISModuleApi.csproj",
       "packagesPath": "C:\\Users\\PC1\\.nuget\\packages\\",
-      "outputPath": "D:\\logix\\ParSocietyProject\\ParApi\\fmismoduleapi\\obj\\",
+      "outputPath": "D:\\logix\\SRCProject\\SrcApi\\fmismoduleapi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -733,11 +733,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\logix\\ParSocietyProject\\ParApi\\cmismoduleapi\\CMISModuleApi.csproj",
+      "projectUniqueName": "D:\\logix\\SRCProject\\SrcApi\\cmismoduleapi\\CMISModuleApi.csproj",
       "projectName": "CMISModuleApi",
-      "projectPath": "D:\\logix\\ParSocietyProject\\ParApi\\cmismoduleapi\\CMISModuleApi.csproj",
+      "projectPath": "D:\\logix\\SRCProject\\SrcApi\\cmismoduleapi\\CMISModuleApi.csproj",
       "packagesPath": "C:\\Users\\PC1\\.nuget\\packages\\",
-      "outputPath": "D:\\logix\\ParSocietyProject\\ParApi\\cmismoduleapi\\obj\\",
+      "outputPath": "D:\\logix\\SRCProject\\SrcApi\\cmismoduleapi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
